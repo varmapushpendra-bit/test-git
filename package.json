@@ -1,0 +1,20 @@
+{
+  "name": "test-git",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/varmapushpendra-bit/test-git#readme",
+  "bugs": {
+    "url": "https://github.com/varmapushpendra-bit/test-git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varmapushpendra-bit/test-git.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "new.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
