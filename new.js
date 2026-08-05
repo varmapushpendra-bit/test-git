@@ -7,3 +7,9 @@ function multiplyBy2(num){
 }
 // get the multiplication
 multiplyBy2(5)
+
+function devideBy2(num2){
+    var divison=num2/2
+    console.log(divison)
+}
+devideBy2(20)
