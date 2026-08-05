@@ -12,4 +12,5 @@ function devideBy2(num2){
     var divison=num2/2
     console.log(divison)
 }
+//get devision
 devideBy2(20)
