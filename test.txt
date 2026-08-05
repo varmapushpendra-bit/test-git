@@ -6,3 +6,4 @@ Line 3
 Added multiplyBy2 function
 added divideBy2 function;
 line 8
+line 9
