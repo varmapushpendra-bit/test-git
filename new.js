@@ -14,3 +14,8 @@ function devideBy2(num2){
 }
 //get devision
 devideBy2(20)
+ function addTwoNumbers(num1, num2){
+var addition = num1+num2
+console.log(addition)
+}
+addTwoNumbers(2,4)
