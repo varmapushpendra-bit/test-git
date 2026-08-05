@@ -5,11 +5,12 @@ function multiplyBy2(num){
   var multiply = num*2
   console.log(multiply)
 }
-
+// get the multiplication
 multiplyBy2(5)
 
 function devideBy2(num2){
     var divison=num2/2
     console.log(divison)
 }
+//get devision
 devideBy2(20)
