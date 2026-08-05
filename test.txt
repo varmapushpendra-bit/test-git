@@ -7,3 +7,4 @@ Added multiplyBy2 function
 added divideBy2 function;
 line 8
 line 9
+line 10
