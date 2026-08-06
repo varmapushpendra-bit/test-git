@@ -8,3 +8,5 @@ added divideBy2 function;
 line 8
 line 9
 line 10
+
+line 12
